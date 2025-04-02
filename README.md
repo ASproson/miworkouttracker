@@ -55,9 +55,11 @@ Diagnostics: You cannot opt out of diagnostic data collection as it is necessary
 MI Workout Tracker is not intended for use by children under the age of 13. We do not knowingly collect personal information from children under 13. If we learn that we have collected such information, we will delete it promptly.
 
 9. Changes to This Privacy Policy
+
 We may update this Privacy Policy from time to time to reflect changes in our practices or legal requirements. We will notify you of any significant changes by posting the updated policy in the App or by emailing you at the address associated with your account. Your continued use of the App after such changes constitutes your acceptance of the updated Privacy Policy.
 
 10. Contact Us
+
 If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at:
 Email: muscleintelligencefitness@gmail.com
 Website: https://x.com/MIFitnessApp
