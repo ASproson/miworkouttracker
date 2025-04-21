@@ -1,6 +1,6 @@
 # Privacy Policy for MI Workout Tracker
 
-Last Updated: April 2, 2025
+Last Updated: April 21, 2025
 
 At MI Workout Tracker, we are committed to protecting your privacy. This Privacy Policy explains what information we collect, how we use it, and how we protect it when you use our app, MI Workout Tracker ("the App"). By using the App, you agree to the terms of this Privacy Policy.
 
@@ -46,7 +46,7 @@ Legal Requirements: We may disclose your information if required by law or to pr
 MI Workout Tracker offers in-app subscriptions for premium features. We do not collect or store payment information directly. All payment processing is handled by Apple through the App Store, and your payment information is subject to Apple’s privacy policy.
 
 6. Your Choices
-Email Address: You can update your email address in the App’s account settings. If you wish to delete your account and the associated email address, please contact us at muscleintelligencefitness@gmail.com
+Email Address: You can update your email address in the App’s account settings. If you wish to delete your account and the associated email address, please use the delete account button inside of the app, or contact us at muscleintelligencefitness@gmail.com
 
 Diagnostics: You cannot opt out of diagnostic data collection as it is necessary for the App’s functionality and improvement. However, this data is not linked to your identity.
 
